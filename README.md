@@ -17,4 +17,3 @@ Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** and
 
 <a href="https://app.daily.dev/aseelomar"><img src="./devcard.png" width="356" alt="Aseel's Dev Card"/></a>
 
-<a href="https://app.daily.dev/aseelomar"><img src="https://api.daily.dev/devcards/v2/Wx5IWIU4iwBPT7dt86Xo2.png?type=default&r=8mj" width="356" alt="Aseel Omar's Dev Card"/></a>
