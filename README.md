@@ -16,5 +16,5 @@ Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** and
 
 ⚡ **Fun Fact**: I started coding at the age of 15, and I’ve been fascinated by technology ever since!
 
-<a href="https://app.daily.dev/aseelomar750"><img src="./devcard.png" width="356" alt="Aseel's Dev Card"/></a>
+<a href="https://app.daily.dev/aseelomar"><img src="./devcard.png" width="356" alt="Aseel's Dev Card"/></a>
 
