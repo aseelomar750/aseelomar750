@@ -1,10 +1,4 @@
-## Hi there 👋
-
-
-
-
 # Hi there, I'm Aseel Omar! 👋
-
 Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** and a dedicated **Computer Science** student, committed to creating engaging and user-friendly web experiences.
 
 ## 🌟 About Me
@@ -20,6 +14,5 @@ Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** and
 - LinkedIn: [Aseel Omar](https://www.linkedin.com/in/aseelomar)
 - GitHub: [aseelomar750](https://github.com/aseelomar750)
 
-⚡ **Fun Fact**: I started coding at the age of 14, and I’ve been fascinated by technology ever since!
-
+⚡ **Fun Fact**: I started coding at the age of 15, and I’ve been fascinated by technology ever since!
 <a href="https://app.daily.dev/aseelomar"><img src="https://api.daily.dev/devcards/v2/Wx5IWIU4iwBPT7dt86Xo2.png?type=default&r=fo0" width="356" alt="Aseel Omar's Dev Card"/></a>
