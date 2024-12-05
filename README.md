@@ -1,4 +1,4 @@
-# Hi there, I'm Aseel Omar! 👋
+# Hi there, This is Aseel Omar! 👋
 Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** and a dedicated **Computer Science** student, committed to creating engaging and user-friendly web experiences.
 
 ## 🌟 About Me
